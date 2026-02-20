@@ -2426,6 +2426,7 @@
 - [@danielt1988](https://github.com/danielt1988)
 - [@aminegui](https://github.com/aminegui)
 - [@gonza-garcia](https://github.com/gonza-garcia)
+- [@Gogginn](https://github.com/Gogginn)
 - [@Eceber](https://github.com/Eceber)
 - [@aynorica](https://github.com/aynorica)
 - [@joshuafolorunsho](https://github.com/joshuafolorunsho)
